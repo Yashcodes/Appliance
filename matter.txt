@@ -1,0 +1,176 @@
+
+  <!-- Carousel Wrapper-->
+  <div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
+
+    <!--Controls-->
+    <div class="controls-top" style="margin-left:47%;">
+      <a class="black-text" href="#multi-item-example" data-slide="prev"><i class="fa fa-angle-left fa-3x pr-3"></i></a>
+      <a class="black-text" href="#multi-item-example" data-slide="next"><i
+          class="fa fa-angle-right fa-3x pl-3"></i></a>
+    </div>
+    <!--/.Controls-->
+
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+
+      <!--First slide-->
+      <div class="carousel-item active">
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="m.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="n.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="o.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="p.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+      </div>
+      <!--/.First slide-->
+
+      <!--Second slide-->
+      <div class="carousel-item">
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="e.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="f.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="g.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="h.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+      </div>
+      <!--/.Second slide-->
+
+      <!--Third slide-->
+      <div class="carousel-item">
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="i.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="j.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="k.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img class="img-fluid" src="l.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+      </div>
+      <!--/.Third slide-->
+
+    </div>
+    <!--/.Slides-->
+
+  </div>
+  <!--/.Carousel Wrapper -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    <nav class="navbar navbar-position navbar-expand-lg navbar-light" style="background-color: #42def8;">
+      <h3><a class="navbar-brand" href="#">AMH Communications</a></h3>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item active">
+            <a class="nav-link px-3" href="./index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-3" href="#whyUs">Why Us?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-3" href="#service">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-3" href="#review">Reviews</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-3" href="#contact">Contact Us</a>
+          </li>
+         
+        </ul>
+        <ul class="navbar-nav sm-icons">
+          <li class="nav-item px-3"><a class="nav-link" href="https://www.facebook.com/amhcommunications/"><i
+                class="fa fa-facebook-f"></i></a></li>
+          <li class="nav-item px-3"><a class="nav-link"
+              href="https://instagram.com/amh.communications?igshid=YmMyMTA2M2Y="><i class="fa fa-instagram"></i></a>
+          </li>
+          <li class="nav-item px-3"><a class="nav-link" href="https://mobile.twitter.com/amhraipur"><i
+                class="fa fa-twitter"></i></a></li>
+          <li class="nav-item px-3"><a class="nav-link" href="mailto:info@amhcommunications.com"><i
+                class="fa fa-envelope"></i></a></li>
+        </ul>
+      </div>
+    </nav>
